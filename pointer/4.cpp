@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     int a[5] = {12, 45, 78, 23, 49};
-    int *p[5];
+    int *p[5]; // *p[0], *p[1] .... *p[4]
     int i;
 
     for(i=0; i<=4; i++)
