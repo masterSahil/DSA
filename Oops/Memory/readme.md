@@ -39,11 +39,11 @@ This project is a simple **Student Management System** built using **C++**, demo
 
 ## Sample Output
 
-### 1 for Add Students <br>
-### 2 for Display All Students <br>
-### 3 for Search Students <br>
-### 4 for Delete Student <br>
-### 0 for Exit <br>
+#### 1 for Add Students <br>
+#### 2 for Display All Students <br>
+#### 3 for Search Students <br>
+#### 4 for Delete Student <br>
+#### 0 for Exit <br>
 
 Enter Choice: 1 <br>
 Enter Student Id: 101 <br>
