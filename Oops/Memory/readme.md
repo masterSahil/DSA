@@ -39,24 +39,24 @@ This project is a simple **Student Management System** built using **C++**, demo
 
 ## Sample Output
 
-1 for Add Students
-2 for Display All Students
-3 for Search Students
-4 for Delete Student
-0 for Exit
+### 1 for Add Students <br>
+### 2 for Display All Students <br>
+### 3 for Search Students <br>
+### 4 for Delete Student <br>
+### 0 for Exit <br>
 
-Enter Choice: 1
-Enter Student Id: 101
-Enter Student Name: John
-Student Added Successfully ...
+Enter Choice: 1 <br>
+Enter Student Id: 101 <br>
+Enter Student Name: John <br>
+Student Added Successfully ... <br>
 
-Enter Choice: 2
-Id: 101   Name: John
+Enter Choice: 2 <br>
+Id: 101   Name: John <br>
 
-Enter Choice: 3
-Enter Student Id: 101
-Id: 101   Name: John
+Enter Choice: 3 <br>
+Enter Student Id: 101 <br>
+Id: 101   Name: John <br>
 
-Enter Choice: 4
-Enter Student Id: 101
-Student Deleted Successfully ...
+Enter Choice: 4 <br>
+Enter Student Id: 101 <br>
+Student Deleted Successfully ... <br>
