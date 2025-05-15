@@ -1,0 +1,5 @@
+template allows us to create generic classes and functions
+
+* 2 types of Templates
+
+1. Function Based Templates 2. Class Based Templates

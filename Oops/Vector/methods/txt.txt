@@ -1,0 +1,12 @@
+/* Vector */
+
+-> In Array we have to create it dynamic manually but in vector it automatically creates as dynamic
+
+-> A vector is a Dynamic array that can resize itself automatically.
+
+-> it is a part of the standard template library and provides dynamic array functionality along with additional features like bounds-cheking and automatic resizing.
+
+-> vector is a one kind of extended version of the array
+
+-> vector is a built-in class which provided by vector library and vector name is like an obj of that class, 
+   but we treat vector class as an data type
