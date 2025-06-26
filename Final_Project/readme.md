@@ -1,17 +1,12 @@
-Singly Linked List in C++ (Menu-Driven Program)
-This C++ project implements a menu-driven singly linked list with various operations including:
+# Singly Linked List in C++ (Menu-Driven Program) <br>
+### This C++ project implements a menu-driven singly linked list with various operations including:
 
 Node creation
-
-Traversal
-
-Modification
-
-Binary search (on sorted array derived from the list)
-
-Merge Sort
-
-Quick Sort
+#### Traversal
+#### Modification
+#### Binary search (on sorted array derived from the list)
+#### Merge Sort
+#### Quick Sort  <br>
 
 The project provides an interactive console interface for practicing and understanding linked list concepts.
 
