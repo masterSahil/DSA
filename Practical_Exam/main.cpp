@@ -277,7 +277,8 @@ void vectorr() {
     vector<int> v;
     int elem;
 
-    cout << "Enter -1 to Stop" << endl;
+    cout << "Enter elements one by one (enter -1 to stop):" << endl;
+
     while (true) {
         cout << "Enter Elem: ";
         cin >> elem;
