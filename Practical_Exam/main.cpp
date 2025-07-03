@@ -280,7 +280,6 @@ void vectorr() {
     cout << "Enter elements one by one (enter -1 to stop):" << endl;
 
     while (true) {
-        cout << "Enter Elem: ";
         cin >> elem;
 
         if (elem == -1) {
